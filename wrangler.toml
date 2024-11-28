@@ -1,0 +1,6 @@
+name = 'profanity-api'
+compatibility_date = "2024-11-28"
+
+[vars]
+VECTOR_URL = "https://wired-coral-22661-eu1-vector.upstash.io"
+VECTOR_TOKEN = "ABUFMHdpcmVkLWNvcmFsLTIyNjYxLWV1MWFkbWluWkRjNU16SmtaREF0WkRoa1lpMDBaVFptTFRreFkyVXROMkUyWldVMk9EQmpOV1pr"
